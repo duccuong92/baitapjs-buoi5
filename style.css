@@ -1,0 +1,38 @@
+/* Bài tập 1 */
+#bai1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 4px;
+    text-align: center;
+
+    padding-top: 20px;
+    margin: 0 auto;
+
+    border: 1px dashed black;
+
+    width: 500px;
+    height: 300px;
+}
+
+#time {
+    padding-top: 20px;
+
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+#notiffication {
+    border: 1px solid #649864;
+    background-color: #649864;
+
+    width: 300px;
+    height: 100px;
+    margin-top: 30px;
+
+    color: #004900;
+}
+
+/* Bài tập 2 */
