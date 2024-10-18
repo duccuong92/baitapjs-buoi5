@@ -24,8 +24,8 @@
 
 }
 
-#notiffication {
-    border: 1px solid #649864;
+#notification {
+    border: 1px solid green;
     background-color: #649864;
 
     width: 300px;
@@ -36,3 +36,29 @@
 }
 
 /* Bài tập 2 */
+
+#bai2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+
+    border: 1px dashed black;
+    }
+
+#messenger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 480px;
+    height: 50px;
+
+    border: 1px dashed green;
+    background-color: #649864;
+
+    color: #004900;
+    font-weight: bold;
+}
