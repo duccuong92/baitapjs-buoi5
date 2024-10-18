@@ -25,14 +25,14 @@
 }
 
 #notification {
-    border: 1px solid green;
-    background-color: #649864;
+    border: 1px solid red;
+    background-color: #ef7961;
 
     width: 300px;
     height: 100px;
     margin-top: 30px;
 
-    color: #004900;
+    color: rgb(130, 0, 0);
 }
 
 /* Bài tập 2 */
