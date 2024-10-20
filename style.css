@@ -24,6 +24,10 @@
 
 }
 
+.notification_wrap {
+    position: relative;
+}
+
 #notification {
     border: 1px solid red;
     background-color: #ef7961;
@@ -33,25 +37,26 @@
     margin-top: 30px;
 
     color: rgb(130, 0, 0);
-
-    position: relative;
 }
 
 /* // Hỏi lại thầy */
 #close-my-modal {
     position: absolute;
-    top: 143px;
-    right: 485px;
+    top: 30px;
+    right: 0px;
   
     width: 20px;
     height: 20px;
   
     border: 1px solid gray;
 
-
     opacity: 0.5;
     color: rgb(82, 82, 82);
+
+    cursor: pointer;
   }
+
+ 
 
 /* Bài tập 2 */
 
